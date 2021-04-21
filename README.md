@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dani Koza!
+
+---
+
+About to graduate B.Sc software engineering studies, specializing in Java programing technologies and mobile apps development.<br>
+More tools and skills purchased during the studies are listed in the **toolbox** below.<br><br>
+
+Currently Looking for a junior software R&D position. 
+
+
+
 
 <!--
 **DaniKoza/DaniKoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
