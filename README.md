@@ -2,10 +2,9 @@
 
 ---
 
-About to graduate B.Sc software engineering studies, specializing in Java programing technologies and mobile apps development.<br>
-More tools and skills purchased during the studies are listed in the **toolbox** below.<br>
-
-Currently Looking for a junior software development position. 
+Currently work at AppsFlyer as an mobile automation engineer, developing and maintaining complex infra automation solutions.<br>
+Graduated B.Sc software engineering.<br>
+Things I like: <br>
 
 ---
 
